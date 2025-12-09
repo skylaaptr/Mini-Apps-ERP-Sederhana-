@@ -1,0 +1,5 @@
+{
+  "name": "Mini ERP Web App",
+  "description": "A simple web-based ERP application with features for sales, inventory, financial reports, and document management. It includes file upload, storage, and download capabilities, all simulated on the client-side.",
+  "requestFramePermissions": []
+}
